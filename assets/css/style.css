@@ -22,12 +22,10 @@
 .inactive {
   font-family: sans-serif;
   font-weight: lighter;
-  fill: #65a9c9;
   transition: fill 0.3s ease-out;
   text-anchor: middle;
 }
 
 .inactive:hover {
-  fill: #21495c;
   cursor: pointer;
 }
